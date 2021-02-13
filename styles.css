@@ -1592,6 +1592,10 @@ label {
   height: 45vh;
 }
 
+.pracback{
+background-image: radial-gradient( circle farthest-corner at 2.5% 8.6%,  rgba(224,173,33,1) 0%, rgba(233,211,152,1) 45.8%, rgba(234,177,25,1) 90% );
+}
+
 @media only screen and (min-width: 768px) {
   .picslide {
     height: 80vh;
