@@ -1678,6 +1678,14 @@ background-image: radial-gradient( circle farthest-corner at 2.5% 8.6%,  rgba(22
     font-weight: bold;
     color: #000;
   }
+  
+  .ugatextgrey {
+  font-family: 'Montserrat';
+  text-align: center;
+  font-size: 28px;
+  line-height: 1.6;
+  color: #8f8f8f;
+}
 
   @media only screen and (min-width: 992px) {
     .picslide {
@@ -1762,4 +1770,12 @@ background-image: radial-gradient( circle farthest-corner at 2.5% 8.6%,  rgba(22
     .carousel-item img {
       height: 450px;
     }
+    
+    .ugatextgrey {
+  font-family: 'Montserrat';
+  text-align: center;
+  font-size: 34px;
+  line-height: 1.6;
+  color: #8f8f8f;
+}
   }
